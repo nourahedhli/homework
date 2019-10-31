@@ -9,3 +9,6 @@ This is important. At the top of the page, We have to declare the type of the HT
 ## Paragraph Element
 An HTML element that creates a paragraph
 
+## HTML Links
+HTML links are defined with the <a> tag
+
