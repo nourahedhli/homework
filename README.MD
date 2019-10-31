@@ -22,7 +22,8 @@ HTML links are defined with the <a.> tag
 HTML heading are defined with the <h1.> to <h6.>. 
 <h1.> is the most important heading. <h6.> is the least important.
 They have to be written without the dot.
-
+## HTML Body
+After closing your header section, then you start with your body section. The body tag is where you have all your page content. 
 ## HTML Images
 HTML images are defined with the <img.> tag.The source file (src), alternative text (alt), width, and height are provided as attributes
 
