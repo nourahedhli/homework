@@ -11,6 +11,8 @@ The head tag starts the header section of your web-page. The code that goes insi
 ## HTML Title
 Title tag sets the title of your page. It is the name that you see on the tab title when you open a browser. 
 
+## HTML Meta
+Metadata is written in the head tag of your page. It is used for search engines. There are different meta fields (description,keywords,author,viewport).
 ## Paragraph Element
 An HTML element that creates a paragraph
 
