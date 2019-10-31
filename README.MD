@@ -22,4 +22,8 @@ HTML images are defined with the <img.> tag.The source file (src), alternative t
 ## HTML Buttons 
 
 HTML buttons are defined with the <button.> tag
+## HTML Lists
+HTML lists are defined with the <ul.> (unordered/bullet list)
+or the <ol.> (ordered/numbered list) tag, followed by <li.> tags (list items):
+
 
