@@ -11,4 +11,7 @@ An HTML element that creates a paragraph
 
 ## HTML Links
 HTML links are defined with the <a> tag
-
+## HTML Headings 
+HTML heading are defined with the <h1.> to <h6.>. 
+<h1.> is the most important heading. <h6.> is the least important.
+They have to be written without the dot.
