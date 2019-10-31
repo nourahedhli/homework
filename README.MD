@@ -19,3 +19,7 @@ They have to be written without the dot.
 ## HTML Images
 HTML images are defined with the <img.> tag.The source file (src), alternative text (alt), width, and height are provided as attributes
 
+## HTML Buttons 
+
+HTML buttons are defined with the <button.> tag
+
