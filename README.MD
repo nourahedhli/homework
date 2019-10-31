@@ -6,6 +6,8 @@ an HTML Element goes into a webpage and identifies the HTML content in the web p
 ## HTML Documents
 This is important. At the top of the page, We have to declare the type of the HTML document by typing <!DOCTYPE html> 
 
+## HTML Head
+the head tag starts the header section of your webapage. The code that goes inside the head tage does not appear on your page. 
 ## Paragraph Element
 An HTML element that creates a paragraph
 
