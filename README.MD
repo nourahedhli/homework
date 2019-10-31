@@ -1,13 +1,16 @@
 # Technical Definitions
 
 ## HTML Element
-an HTML Element goes into a webpage and identifies the HTML content in the web page
+An HTML Element goes into a web-page and identifies the HTML content in the web page
 
 ## HTML Documents
 This is important. At the top of the page, We have to declare the type of the HTML document by typing <!DOCTYPE html> 
 
 ## HTML Head
-the head tag starts the header section of your webapage. The code that goes inside the head tage does not appear on your page. 
+The head tag starts the header section of your web-page. The code that goes inside the head tag does not appear on your page. 
+## HTML Title
+Title tag sets the title of your page. It is the name that you see on the tab title when you open a browser. 
+
 ## Paragraph Element
 An HTML element that creates a paragraph
 
