@@ -1,0 +1,86 @@
+<!doctype html>
+<!-- doctype html is used to tell the website browser that this is HTML -->
+<html class="no-js" lang="">
+<!-- class="no-js" this allows you to make CSS rules when the javascript is disabled__ lang="" this helps the browser
+knows in what kind of language it is written -->
+<head>
+  <!--  head: is a metadata that is placed between html and body -->
+  <meta charset="utf-8">
+  <!-- meta: is info in the head. charset = charactercd
+    set utf-8 is character encoding  -->
+  <title></title>
+  <!-- title tag is used as the title for the HTML doc. you can see in the
+  browser's title bar -->
+  <meta name="description" content="">
+  <!-- this is used to summarize the content of the page
+  it is important because gives description of the page
+  its that small paragraph under the link of the website -->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- this is used so the browser
+  will use the width of the page at the width of the
+  screen of the device that the user is using. -->
+
+  <link rel="manifest" href="site.webmanifest">
+
+  <!-- the link tag here is used to link to webmanifest to
+   tells the browser about your web application and
+  how it should behave when 'installed' on the user's mobile device or desktop. -->
+
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Use of rel=apple-touch-icon defines an
+  image to be used on Apple devices  .png is an image -->
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+  <!-- these two are linking your html file to normalize.css and main.css which is your stylesheet that
+  is found in file called css -->
+
+  <meta name="theme-color" content="#fafafa">
+
+  <!-- this tag is used in the head tag.
+  its content attribute is a valid CSS color supported by all the targeted browsers -->
+</head>
+
+<body>
+<!-- body tag is always used after head tag. body is used for the content of the page -->
+<!--[if IE]>
+  <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+<!-- the p tag is used for paragraphs. the strong tag is used to separate the text from the rest of the content.
+a tag is used to link one page to another
+-->
+
+<![endif]-->
+
+<!-- Add your site or application content here -->
+<p>Hello world! This is HTML5 Boilerplate.</p>
+<!-- the p tag is used for writing paragraphs -->
+<script src="js/vendor/modernizr-3.7.1.min.js"></script>
+<!-- the script tag is usually used for javascript code
+ src is an attibute to specifies the URL -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
+<!-- this is used to define jquery -->
+<script src="js/plugins.js"></script>
+<!-- is an asynchronous JavaScript loader -->
+<script src="js/main.js"></script>
+<!-- is an asynchronous JavaScript loader -->
+
+<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+<script>
+    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set','transport','beacon'); ga('send', 'pageview')
+
+</script>
+<script src="https://www.google-analytics.com/analytics.js" async></script>
+<!-- I believe this is used for The Analytics snippet to measuring how users interact with your website -->
+
+
+</body>
+<!-- this is closing the body tag -->
+
+
+</html>
+<!-- this is always the last tag in the html which is closing the html tag-->
